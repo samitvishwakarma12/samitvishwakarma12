@@ -1,16 +1,15 @@
-## Hi there 👋
+## Projects
 
-<!--
-**samitvishwakarma12/samitvishwakarma12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build projects to explore programming concepts, solve problems, and see how ideas work in practice.
 
-Here are some ideas to get you started:
+I'm particularly interested in the parts of programming that go beyond simply making something work — parsing, data structures, abstractions, program architecture, and understanding what's happening underneath the surface.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my projects include:
+
+* **Expression parsers** exploring tokenization, parsing, ASTs, and evaluation.
+* **CLI tools** experimenting with command design and user-friendly interfaces.
+* **Simulators** exploring OOP, state, and event-driven programs.
+* **Web applications** exploring frontend, backend, APIs, and full-stack architecture.
+* **Small experiments and games** for learning through implementation.
+
+I like projects where the implementation itself teaches me something.
